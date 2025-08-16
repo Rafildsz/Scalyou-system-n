@@ -2,4 +2,6 @@
     <string name="app_name">Scalyou</string>
     <string name="entrar">Entrar</string>
     <string name="login">Scalyou</string>
+    <string name="navigation_drawer_open">Abrir menu</string>
+    <string name="navigation_drawer_close">Fechar menu</string>
 </resources>
