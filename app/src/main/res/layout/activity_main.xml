@@ -69,7 +69,7 @@
 
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnEntrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="24dp"
@@ -77,6 +77,7 @@
         android:text="@string/entrar"
         android:textColor="@color/black"
         app:cornerRadius="10dp" />
+
 
     <TextView
         android:id="@+id/textCadastro"
